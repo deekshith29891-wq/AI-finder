@@ -6,7 +6,7 @@ An AI-powered web application for university campuses to streamline lost and fou
 
 ## ✨ Features
 
-- **🤖 AI-Powered Image Matching**: Computer vision simulation that extracts key features (color, brand, serial numbers, shape, texture) and matches against reported items.**
+- **🤖AI-Powered Image Matching**: Computer vision simulation that extracts key features(color, brand, serial numbers, shape, texture) and matches against reported items.**
 - **🗺️ Campus Route Builder**: Track where students were before losing an item (`Classroom → Canteen → Library → Auditorium`) using quick-tap campus chips.
 - **📍 AI Location Probability Estimation**: Analyzes route sequence, last remembered spot, and timestamps to output top 3 predicted locations (e.g. 📚 Library 82%, 🍔 Canteen 76%, 🏫 Classroom 64%).
 - **⭐ Smart Prioritized Matching**: Automatically highlights items found near high-probability loss locations with `⭐ AI Top Match` badges.
