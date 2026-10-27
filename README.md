@@ -13,6 +13,7 @@ An AI-powered web application for university campuses to streamline lost and fou
 - **📊 Real-time Campus Stats**: Live counters for items reported, items recovered, AI accuracy, and campus coverage.
 - **🔍 Filterable Search Database**: Real-time keyword search paired with category filter pills (Electronics, Bags, Keys, Accessories, etc.).
 - **🎨 Modern Design**: Custom CSS design system with Outfit & Inter typography, yellow/gold glowing gradients (`#FFC700`), glassmorphic header, and cybernetic AI scanner animations.
+- Gowtham
 
 ---
 
